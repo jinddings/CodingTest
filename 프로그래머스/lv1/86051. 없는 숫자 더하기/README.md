@@ -1,6 +1,6 @@
 # [level 1] 없는 숫자 더하기 - 86051 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86051) 
 
 ### 성능 요약
 

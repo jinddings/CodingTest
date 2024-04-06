@@ -1,0 +1,17 @@
+T = int(input())
+
+profit = 0
+
+for i in range(T):
+    N = int(input())
+    priceList = list(map(int, input.split()))
+    maxPrice = max(priceList)
+    for price in priceList :
+        if price < maxPrice:
+            profit += maxPrice - price
+    print(profit)
+
+
+
+
+

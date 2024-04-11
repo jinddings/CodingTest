@@ -12,4 +12,3 @@ def solution(N):
 
 
 print(solution(1260))
-ㅉ
